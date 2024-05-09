@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inadeemdev" alt="inadeemdev" /></a> </p>
 
-- 🔭 I’m currently working on **Web Accessibility Assistive Tool**
+- 🔭 I’m currently working as a software engineer in a cybersecurity company.
 
-- 👯 I’m looking to collaborate on **Open source projects, Community projects and Hackathons**
+- 👯 I’m open to collaborate on **Open source projects, Community projects and Hackathons**
 
 - 👨‍💻 All of my projects are available at [www.nadeemdev.com](www.nadeemdev.com)
 
